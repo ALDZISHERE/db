@@ -2,12 +2,12 @@
   "premium_users": [
     123456789,
     987654321,
-    1122334455
+    1122334455,
+    8522245118
   ],
   "metadata": {
-    "last_updated": "2024-01-15T10:30:00Z",
-    "total_users": 3,
-    "max_users": 100,
-    "version": "1.0"
+    "last_updated": "2026-02-15T01:10:12.336Z",
+    "total_users": 4,
+    "max_users": 100
   }
 }
